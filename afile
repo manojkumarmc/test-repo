@@ -8,7 +8,7 @@ set encoding=utf-8
 if $TERM == "xterm-256color" || $TERM == "screen-256color" || $COLORTERM == "gnome-terminal"
   set t_Co=256
 endif
-
+one line added
 "this is needed to make sure that ultisnips works finally...!
 filetype off
 
