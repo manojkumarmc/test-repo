@@ -12,3 +12,6 @@ class Emp(object):
 
     def get_name(self):
         print self._name
+
+    def set_name(self, name):
+        self._name = name
